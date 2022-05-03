@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.72e5baf0.css",
+    "main.js": "/my-react-portfolio/static/js/main.b3f81969.js",
+    "static/media/awa4.png": "/my-react-portfolio/static/media/awa4.d59d9c457ffaef2ceeca.png",
+    "static/media/im4.jpg": "/my-react-portfolio/static/media/im4.8a2640f9cba7b1a82480.jpg",
+    "static/media/img1.jpg": "/my-react-portfolio/static/media/img1.18454db391a029946ece.jpg",
+    "static/media/bg.jpg": "/my-react-portfolio/static/media/bg.d580cd375921d13ae60d.jpg",
+    "static/media/programming-skills.svg": "/my-react-portfolio/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/my-react-portfolio/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/my-react-portfolio/static/media/interests.809890a3e4fb0938f61b.svg",
+    "index.html": "/my-react-portfolio/index.html",
+    "static/media/education.svg": "/my-react-portfolio/static/media/education.025fac57fc7c52e6d33c.svg",
+    "static/media/work-history.svg": "/my-react-portfolio/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.72e5baf0.css.map": "/my-react-portfolio/static/css/main.72e5baf0.css.map",
+    "main.b3f81969.js.map": "/my-react-portfolio/static/js/main.b3f81969.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72e5baf0.css",
+    "static/js/main.b3f81969.js"
+  ]
+}
