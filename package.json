@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Lindaroy202.github.io/my-react-portfolio",
   "name": "my-portfolio-pro",
   "version": "0.1.0",
   "private": true,
@@ -25,6 +26,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -33,7 +36,6 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  
   "browserslist": {
     "production": [
       ">0.2%",
@@ -50,5 +52,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
